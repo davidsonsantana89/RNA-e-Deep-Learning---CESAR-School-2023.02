@@ -1,6 +1,6 @@
 # RNA e Deep Learning - CESAR School 2023.02
-## DAVIDSON ALVES SANTOS DE SANTANA
-dass@cesar.school
+## Nome: DAVIDSON ALVES SANTOS DE SANTANA
+## E-mail: dass@cesar.school
 
 
 
