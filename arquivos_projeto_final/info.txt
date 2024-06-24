@@ -1,0 +1,6 @@
+Total training images: 196
+training bart images: 118
+training homer images: 78
+Total test images: 73
+test bart images: 42
+test homer images: 31
